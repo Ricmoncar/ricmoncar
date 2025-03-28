@@ -11,7 +11,7 @@
 
 ## 📚 Junior Web Development Student
 
-- ✔️ I have completed a Vocational Education and Training course in IT Systems & Networking with an average score of _9.3/10_. I'm currently thriving in a Vocational course in web development!
+- ✔️ I have completed a Vocational Education and Training course in IT Systems & Networking with an average score of _9.5/10_. I'm currently thriving in a Vocational course in web development!
 
 ---
 
