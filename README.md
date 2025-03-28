@@ -38,6 +38,6 @@ I'm passionate for art and all-things-creating. You can see some of my works in 
 
 I'm also very interested in novels and fantasy-inspired RPs. 
 
-
+-------------------------------------------------------------------------------------------------------------
 _Thank you for reading! 💚_
 
