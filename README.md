@@ -41,6 +41,13 @@
 
 ## 👥🔆 Contact me!
 
-<a href="url"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="40" width="40" ><p><b>Discord:</b> Span1</p></a> 
+## 👥🔆 Contact me!
+
+<a href="url">
+  <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="40" width="40" style="vertical-align:middle;" />
+  <b>Discord:</b> Span1
+</a> 
+
+_Thank you for reading! 💚_ 
 
 _Thank you for reading! 💚_
