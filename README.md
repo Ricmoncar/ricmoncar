@@ -5,7 +5,7 @@
 - 🏴 With my extensive time spent around English-speaking communities, I've developed an effortless fluency in the language.
 - 🗣️ I'm focused on improving my soft skills, and being a great communicator!
 
-![Alt text](https://media.discordapp.net/attachments/964964421761921065/1352978534544572509/image.png?ex=67e73b33&is=67e5e9b3&hm=7ad66d2d2e4a7958f62ea94a0ead567692e9af8dee431d301ec39dc2c3c017ef&=&format=webp&quality=lossless&width=512&height=437)
+![Illustration of waving](https://media.discordapp.net/attachments/964964421761921065/1352978534544572509/image.png?ex=67e73b33&is=67e5e9b3&hm=7ad66d2d2e4a7958f62ea94a0ead567692e9af8dee431d301ec39dc2c3c017ef&=&format=webp&quality=lossless&width=512&height=437)
 
 ---
 
@@ -20,7 +20,7 @@
 - 🕸️ I'm experienced in **Web development** languages, having started programming from a young age.
 - 🖼️ I'm currently learning different development frameworks such as _Angular and Bootstrap_.
   
-![Alt text](https://media.discordapp.net/attachments/964964421761921065/1353034193306652684/y34y43y3y.png?ex=67e76f09&is=67e61d89&hm=16c56b6b49dc8d985f502e8a13fb4b1bcd46eb664409d8dd830366f47a2efe08&=&format=webp&quality=lossless&width=898&height=574)
+![Illustration of me on a laptop](https://media.discordapp.net/attachments/964964421761921065/1353034193306652684/y34y43y3y.png?ex=67e76f09&is=67e61d89&hm=16c56b6b49dc8d985f502e8a13fb4b1bcd46eb664409d8dd830366f47a2efe08&=&format=webp&quality=lossless&width=898&height=574 = 250x250)
 
 ---
 
