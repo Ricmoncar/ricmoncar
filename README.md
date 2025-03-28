@@ -48,6 +48,6 @@
   <b>Discord:</b> Span1
 </a> 
 
-_Thank you for reading! 💚_ 
+---
 
 _Thank you for reading! 💚_
