@@ -10,13 +10,13 @@
 
 ---
 
-## 📚 Junior Web Development Student
+## 📚🎒 Junior Web Development Student
 
 - 🎓 I have completed a Vocational Education and Training course in IT Systems & Networking with an average score of _9.5/10_. I'm currently thriving in a Vocational course in web development!
 
 ---
 
-## 🖥️ Proficient in Java, HTML/CSS/JS, PL/SQL
+## 🖥️✔️ Proficient in Java, HTML/CSS/JS, PL/SQL
 
 - 🕸️ I'm experienced in **Web development** languages, having started programming from a young age.
 - 🖼️ I'm currently learning different development frameworks such as _Angular and Bootstrap_.
@@ -25,20 +25,22 @@
 
 ---
 
-## 🎧 Current Projects
+## 🎧🎼 Current Projects
 
 - 🎵 For a final project this year, I've chosen to create _a music platform_ akin to Spotify alongside my most-trusted classmates!
 - ✔️ I will be uploading and publishing this project here, on GitHub.
 
 ---
 
-## 🎨 Graphic Design
+## 🎨🖌️ Graphic Design
 
 - 🌻 I'm truly passionate about art and all things creative. You can see some of my works in my portfolio: [WIP LINK]
 - ⚔️ I'm also very interested in novels and fantasy-inspired RPGs.
 
 ---
 
-## 👥 Contact me!
+## 👥🔆 Contact me!
+
+<a href="url"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="40" width="40" ><p><b>Discord:</b></p></a> 
 
 _Thank you for reading! 💚_
