@@ -37,7 +37,7 @@
 **🎨 Graphic Design**
 
 
-- 🧑‍🎨I'm passionate for art and all-things-creating. You can see some of my works in my portfolio: [WIP LINK]
+- 🧑‍🎨 I'm truly passionate for art and all-things-creating. You can see some of my works in my portfolio: [WIP LINK]
 
 - ⚔️ I'm also very interested in novels and fantasy-inspired RPs. 
 
