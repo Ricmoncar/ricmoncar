@@ -5,7 +5,8 @@
 - 🏴 With my extensive time spent around English-speaking communities, I've developed an effortless fluency in the language.
 - 🗣️ I'm focused on improving my soft skills, and being a great communicator!
 
-![Illustration of waving](https://media.discordapp.net/attachments/964964421761921065/1352978534544572509/image.png?ex=67e73b33&is=67e5e9b3&hm=7ad66d2d2e4a7958f62ea94a0ead567692e9af8dee431d301ec39dc2c3c017ef&=&format=webp&quality=lossless&width=512&height=437)
+<a href="url"><img src="https://media.discordapp.net/attachments/964964421761921065/1352978534544572509/image.png?ex=67e73b33&is=67e5e9b3&hm=7ad66d2d2e4a7958f62ea94a0ead567692e9af8dee431d301ec39dc2c3c017ef&=&format=webp&quality=lossless&width=890&height=760" align="center" height="350" width="350" ></a>
+
 
 ---
 
