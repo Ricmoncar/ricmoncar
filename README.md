@@ -20,7 +20,7 @@
 - 🕸️ I'm experienced in **Web development** languages, having started programming from a young age.
 - 🖼️ I'm currently learning different development frameworks such as _Angular and Bootstrap_.
   
-<a href="url"><img src="https://media.discordapp.net/attachments/964964421761921065/1353034193306652684/y34y43y3y.png?ex=67e76f09&is=67e61d89&hm=16c56b6b49dc8d985f502e8a13fb4b1bcd46eb664409d8dd830366f47a2efe08&=&format=webp&quality=lossless&width=898&height=574" align="center" height="250" width="250" ></a>
+<a href="url"><img src="https://media.discordapp.net/attachments/964964421761921065/1353034193306652684/y34y43y3y.png?ex=67e76f09&is=67e61d89&hm=16c56b6b49dc8d985f502e8a13fb4b1bcd46eb664409d8dd830366f47a2efe08&=&format=webp&quality=lossless&width=898&height=574" align="center" height="250" width="450" ></a>
 
 ---
 
