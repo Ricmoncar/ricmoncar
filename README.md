@@ -8,12 +8,14 @@ With my extensive time spent around english-speaking communities, I've developed
 
 I'm focused on improving my soft skills, and being a great communicator!
 
+-------------------------------------------------------------------------------------------------------------
 
 **📚  Junior Web Development student**
 
 
 I have completed a Vocational Education and Training course in IT Systems & Networking with an average score of _9.3/10-_ I'm currently thriving in a Vocational course in web development!
 
+-------------------------------------------------------------------------------------------------------------
 
 **🖥️ Proficient in Java, HTML/CSS/JS, PL/SQL**
 
@@ -22,6 +24,7 @@ I'm experienced in **Web development** languages, having started programming fro
 
  I'm currently learning different development frameworks such as _Angular and Bootstrap._
 
+-------------------------------------------------------------------------------------------------------------
 
 **🎧 Currently working on a music playing platform for a proyect**
 
@@ -30,6 +33,7 @@ For a final proyect this year, I've chosen to create _a music platform_ akin to 
 
 I will be uploading and publishing this proyect here, on Github.
 
+-------------------------------------------------------------------------------------------------------------
 
 **🎨 Graphic Design**
 
