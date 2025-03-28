@@ -1,7 +1,7 @@
 # 🌟 About Me
 
 - 👋 Hi! Name's Ricky- I'm a 19-year-old student from **Spain**, eager to learn and improve in the world of IT!
-- 📃 I'd call myself a very **imaginative** person with a constant urge to **create** and **design**- I'm a self-taught digital artist; I've worked in character design pieces, interesting and persuasive illustrations.
+- 💡 I'd call myself a very **imaginative** person with a constant urge to **create** and **design**- I'm a self-taught digital artist; I've worked in character design pieces, interesting and persuasive illustrations.
 - 🏴 With my extensive time spent around English-speaking communities, I've developed an effortless fluency in the language.
 - 🗣️ I'm focused on improving my soft skills, and being a great communicator!
 
@@ -12,7 +12,7 @@
 
 ## 📚 Junior Web Development Student
 
-- ✔️ I have completed a Vocational Education and Training course in IT Systems & Networking with an average score of _9.5/10_. I'm currently thriving in a Vocational course in web development!
+- 🎓 I have completed a Vocational Education and Training course in IT Systems & Networking with an average score of _9.5/10_. I'm currently thriving in a Vocational course in web development!
 
 ---
 
@@ -34,9 +34,11 @@
 
 ## 🎨 Graphic Design
 
-- 🧑‍🎨 I'm truly passionate about art and all things creative. You can see some of my works in my portfolio: [WIP LINK]
+- 🌻 I'm truly passionate about art and all things creative. You can see some of my works in my portfolio: [WIP LINK]
 - ⚔️ I'm also very interested in novels and fantasy-inspired RPGs.
 
 ---
+
+## 👥 Contact me!
 
 _Thank you for reading! 💚_
