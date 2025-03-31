@@ -22,7 +22,7 @@
 - 🖼️ I'm currently learning different development frameworks such as _Angular and Bootstrap_.
 
 - 
-<a href="url"><img src="https://i.imgur.com/HaDARNMM" align="center" height="350" width="450" ></a>
+<a href="url"><img src="https://imgur.com/a/HaDARNM" align="center" height="300" width="450" ></a>
 
 ---
 
