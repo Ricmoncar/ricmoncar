@@ -22,7 +22,7 @@
 - 🖼️ I'm currently learning different development frameworks such as _Angular and Bootstrap_.
 
 - 
-<a href="url"><img src="https://github.com/Ricmoncar/ricmoncar/raw/main/fewfwe.png" align="center" height="350" width="450" ></a>
+<a href="url"><img src="https://github.com/Ricmoncar/ricmoncar/raw/main/fewfwe.png" align="center" height="350" width="500" ></a>
 
 ---
 
@@ -43,7 +43,7 @@
 ## 👥🔆 Contact me!
 
 <a href="url">
-  <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="40" width="80" style="vertical-align:middle;" />
+  <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="40" width="40" style="vertical-align:middle;" />
   <b>Discord:</b> Span1
 </a> 
 
