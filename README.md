@@ -5,7 +5,7 @@
 - 🏴 With my extensive time spent around English-speaking communities, I've developed an effortless fluency in the language.
 - 🗣️ I'm focused on improving my soft skills, and being a great communicator!
 
-<a href="url"><img src="https://imgur.com/a/swXCssC" align="center" height="350" width="450" ></a>
+<a href="url"><img src="https://prnt.sc/R2tA2cduE4QQ" align="center" height="350" width="450" ></a>
 
 
 ---
