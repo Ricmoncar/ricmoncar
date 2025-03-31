@@ -5,7 +5,7 @@
 - 🏴 With my extensive time spent around English-speaking communities, I've developed an effortless fluency in the language.
 - 🗣️ I'm focused on improving my soft skills, and being a great communicator!
 
-<a href="url"><img src="https://github.com/Ricmoncar/ricmoncar/raw/main/images/gawegewa.png" align="center" height="350" width="450" ></a>
+<a href="url"><img src="https://github.com/Ricmoncar/ricmoncar/raw/main/gawegewa.png" align="center" height="350" width="450" ></a>
 
 
 ---
@@ -22,7 +22,7 @@
 - 🖼️ I'm currently learning different development frameworks such as _Angular and Bootstrap_.
 
 - 
-<a href="url"><img src="https://github.com/Ricmoncar/ricmoncar/raw/main/images/fewfwe.png" align="center" height="350" width="450" ></a>
+<a href="url"><img src="https://github.com/Ricmoncar/ricmoncar/raw/main/fewfwe.png" align="center" height="350" width="450" ></a>
 
 ---
 
