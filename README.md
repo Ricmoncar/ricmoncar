@@ -29,7 +29,9 @@
 ## 🎧🎼 Current Projects
 
 - 🎵 For a final project this year, I've chosen to create _a music platform_ akin to Spotify alongside my most-trusted classmates!
-- ✔️ I will be uploading and publishing this project here, on GitHub.
+- ⚔️ Another school project I've chosen this year is to create a website for a fictional fantasy world, that features a connection to a Database with 19 different tables.
+- ✔️ I will be uploading and publishing all these projects here, on GitHub.
+- 🧑‍💻I'm also practicing for a local company in Seville called Soltel, as an intern for this year.
 
 ---
 
