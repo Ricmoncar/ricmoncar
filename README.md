@@ -48,6 +48,10 @@
   <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="40" width="40" style="vertical-align:middle;" />
   <b>Discord:</b> Span1
 </a> 
+<a href="url">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="40" width="40" style="vertical-align:middle;" />
+  <b>GMAIL:</b> ricardomontescarrasco1@gmail.com
+</a> 
 
 ---
 
